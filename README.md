@@ -11,6 +11,8 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-1877F2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+![Arduino](https://img.shields.io/badge/Arduino-1877F2?style=for-the-badge&logo=Arduino&logoColor=white)
+
 
 ### Bibliotecas e Frameworks:
 ![Spring](https://img.shields.io/badge/spring-1877F2.svg?style=for-the-badge&logo=spring&logoColor=white)
